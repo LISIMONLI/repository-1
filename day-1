@@ -3,3 +3,4 @@ csv_reader = csv.reader(open('./test.csv', encoding='utf-8'))
 for row in csv_reader:
    print(row)
    print('hello')
+  print('hello')
